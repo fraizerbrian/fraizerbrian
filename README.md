@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Welcome to my page. 
+- 🌱 I am a cyber security enthusiast, still learning and gaining skills day by day.
+- 👯 I'm looking forward to working with anyone interested in cyber security, (currently web-security vulnerabilities), and web development using python's django framework.
+
 <!--
 **fraizerbrian/fraizerbrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
